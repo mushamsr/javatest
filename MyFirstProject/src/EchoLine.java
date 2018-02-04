@@ -5,5 +5,6 @@ public class EchoLine {
 		Scanner keyboard = new Scanner(System.in);
 		System.out.println(keyboard.nextLine());
 		keyboard.close();
+		// Add a spurious comment
 	}
 }
